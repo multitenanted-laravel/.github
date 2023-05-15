@@ -2,7 +2,7 @@
 
 This is currently a work in progress.
 
-[https://multitenanted-laravel.dev]
+[The site](https://multitenanted-laravel.dev)
 
 <!--
 
