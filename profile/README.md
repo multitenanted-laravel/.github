@@ -2,8 +2,6 @@
 
 This is currently a work in progress.
 
-[The site](https://multitenanted-laravel.dev)
-
 <!--
 
 **Here are some ideas to get you started:**
