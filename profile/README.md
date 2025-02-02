@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="sprout-banner.png" alt="Banner" style="width: 100%; max-width: 800px;" />
+    <img src="sprout-banner-short.png" alt="Banner" style="width: 100%; max-width: 800px;" />
 </p>
 
 Sprout is a collection of packages for Laravel that provide a seamless and easy to use multitenancy solution.
